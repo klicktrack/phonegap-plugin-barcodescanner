@@ -44,6 +44,7 @@
   },
   "author": "Adobe PhoneGap Team",
   "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "bugs": {
     "url": "https://github.com/phonegap/phonegap-plugin-barcodescanner/issues"
   },
